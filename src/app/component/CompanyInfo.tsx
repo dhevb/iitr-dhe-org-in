@@ -9,7 +9,7 @@ const CompanyInfo: React.FC = () => {
     <div className="flex flex-col md:flex-row p-4 bg-white items-center">
       <div className="md:mr-4">
         <Image
-          src="/logo.png"
+          src="/dhe.png"
           alt="Company Logo"
           className="p-2 w-14 h-14 md:w-16 md:h-16 lg:w-24 lg:h-24"
           width={500}
